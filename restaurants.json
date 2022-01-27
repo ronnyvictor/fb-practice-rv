@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bolay",
+        "location": "Boca Raton, FL",
+        "type": "Healthy American",
+        "price": "$$$"
+    },
+    {
+        "name": "McDonald's",
+        "location": "Boca Raton, FL",
+        "type": "American Fast Food",
+        "price": "$"
+    },
+    {
+        "name": "Chez Elda",
+        "location": "Boynton Beach, FL",
+        "type": "Haitian Fast Food",
+        "price": "$$"
+    },
+    {
+        "name": "Denny's",
+        "location": "West Palm Beach, FL",
+        "type": "Breakfast",
+        "price": "$"
+    }
+]
