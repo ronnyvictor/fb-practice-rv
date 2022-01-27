@@ -1,0 +1,23 @@
+{
+  "name": "fb-practice-rv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnyvictor/fb-practice-rv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnyvictor/fb-practice-rv/issues"
+  },
+  "homepage": "https://github.com/ronnyvictor/fb-practice-rv#readme",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}
